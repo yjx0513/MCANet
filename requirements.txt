@@ -1,0 +1,9 @@
+torch>=1.13
+torch-geometric>=2.3
+numpy
+scipy
+scikit-learn
+tqdm
+prefetch_generator
+transformers>=4.30
+rdkit-pypi
